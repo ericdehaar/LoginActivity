@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LoginActivity</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" tools:ignore="ExtraTranslation">EOP27KrTxewX0flRfj69nvaWi</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET" tools:ignore="ExtraTranslation">0aqLupVb5ZoA6nIq7CymHVwsXoIWrvCpkr1UcyMg3L8nBoPoA7</string>
+</resources>
